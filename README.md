@@ -8,6 +8,7 @@ https://github.com/lopestom
 
 ***UNTESTED AS OF SPEAKING WILL BE TESTING WHEN IT BUILDS THIS WILL BE UIPDATED WHEN I HAVE TESTED IT***
 
+***DOESNT*** BUILD!
 
 This trees android version?
 
